@@ -15,3 +15,4 @@ while True:
     else:
         print(f"Вы угадали число! Это число {number}, вы угадали за {count} попыток")
         break
+print("Финиш")
